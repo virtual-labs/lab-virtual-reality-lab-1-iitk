@@ -80,8 +80,12 @@
   "courseAlignment": {
     "description": "The syllabi of this lab aligns to the following universities in India.",
     "universities": [
-      "Osmania University Data Structures Lab",
-      "JNTU Data Structures Lab"
+      "Lingaya’s Vidyapeeth- Haryana, Course: B. Tech in Computer Science and Engineering (Virtual and Augmented Reality)",
+      "The NorthCap University- Gurgoan; Course: B. Tech in Computer Science and Engineering (Gaming, AR and VR)",
+      "Poornima University- Rajasthan, Course: B.Sc. (Gaming, Augmented and Virtual Reality)",
+      "Periyar University- Salem Course: B.Voc. in Augmented Reality/ Virtual Reality",
+      "Maya Academy of Advanced Cinematics- Mumbai, Kolkata, Bhopal, Course: VAR Plus (program in Virtual and Augmented Reality)",
+      "School of Design, Sushant Univerisity- Gurgoan, Course: Diploma in AR/VR/MR"
     ]
   }
  
