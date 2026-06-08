@@ -67,7 +67,7 @@
 "tag": "v1.0.0",
 "deploy": true
 }
-]
+],
   "targetAudience": {
     "UG": [
       "The lab is primarily intended for Undergraduate (UG) students pursuing programs in Computer Science and Engineering, Information Technology, Electronics and Communication Engineering, Mechanical Engineering, Architecture, and other related disciplines."
